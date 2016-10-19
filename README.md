@@ -21,6 +21,6 @@ See build log at http://www.therpf.com/showthread.php?t=212832.
 |-------|------|------|
 |![front](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/front.png "Front View") | ![side](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/side.png "Side View") | ![back](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/back.png "Back View")|
 
-[top](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/top.png "Top View")
+![top](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/top.png "Top View")
 
 ![layout](https://github.com/01binary/elysium-max-exoskeleton/raw/master/build/layout01.jpg "Layout")
