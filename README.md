@@ -17,6 +17,6 @@ See build log at http://www.therpf.com/showthread.php?t=212832.
 * `build` - contains photographs to show assembled parts at a glance
 * `references` - contains reference photographs used to model all parts in this project
 
-![front](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/front.png "Front View")
-![side](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/side.png "Side View")
-![back](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/back.png "Back View")
+| Front | Side | Back |
+|-------|------|------|
+|![front](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/front.png "Front View") |  ![side](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/side.png "Side View") ![back](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/back.png "Back View")|
