@@ -5,6 +5,8 @@ All STL/OBJ exports use millimeter units.
 
 See build log at http://www.therpf.com/showthread.php?t=212832.
 
+Interested in contributing? Fork or see the project tasks here: https://github.com/01binary/elysium-max-exoskeleton/projects/1
+
 * `print` - contains STL exports for individual parts
 * `assembled` - contains STL and OBJ exports for assembled exoskeleton
 * `src` - contains Autodesk Inventor parts (.ipt) and assemblies (.iam)
