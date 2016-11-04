@@ -5,7 +5,7 @@ Replica with custom parts (not exactly as in the film but with more detail).
 
 * [Parts are viewable on GitHub](https://github.com/01binary/elysium-max-exoskeleton/blob/master/print/HipRight.stl)
 * See build log at http://www.therpf.com/showthread.php?t=212832.
-* Interested in contributing? Fork or see the project tasks [here](https://github.com/01binary/elysium-max-exoskeleton/projects/1)
+* Interested in contributing? Fork or see the project tasks [here](https://github.com/01binary/elysium-max-exoskeleton/projects/1).
 
 --------
 
@@ -24,5 +24,7 @@ Replica with custom parts (not exactly as in the film but with more detail).
 | Front | Side | Back |
 |-------|------|------|
 |![front](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/front.png "Front View") | ![side](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/side.png "Side View") | ![back](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/back.png "Back View")|
+
+3D Printed with machined pistons:
 
 ![layout](https://github.com/01binary/elysium-max-exoskeleton/raw/master/build/layout01.jpg "Layout")
