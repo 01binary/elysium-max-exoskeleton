@@ -3,7 +3,7 @@ Replica with custom parts (not exactly as in the film but with more detail).
 
 > All STL/OBJ exports use millimeter units.
 
-* [Parts are viewable on GitHub](https://github.com/01binary/elysium-max-exoskeleton/blob/master/print/HipRight.stl)
+* [Parts are viewable on GitHub](https://github.com/01binary/elysium-max-exoskeleton/blob/master/print/HipRight.stl).
 * See build log at http://www.therpf.com/showthread.php?t=212832.
 * Interested in contributing? Fork or see the project tasks [here](https://github.com/01binary/elysium-max-exoskeleton/projects/1).
 
@@ -28,3 +28,5 @@ Replica with custom parts (not exactly as in the film but with more detail).
 3D Printed with machined pistons:
 
 ![layout](https://github.com/01binary/elysium-max-exoskeleton/raw/master/build/layout01.jpg "Layout")
+![frontmounted](https://github.com/01binary/elysium-max-exoskeleton/raw/master/build/upperbody02.png "Front Mounted")
+![backmounted](https://github.com/01binary/elysium-max-exoskeleton/raw/master/build/upperbody04.png "Back Mounted")
