@@ -10,6 +10,7 @@ Replica with custom parts (not exactly as in the film but with more detail).
 --------
 
 * `print` - contains STL exports for individual parts
+* `view` - contains OBJ export for entire exoskeleton with ambient occlusion and UV coordinates
 * `assembled` - contains STL and OBJ exports for assembled exoskeleton
 * `src` - contains Autodesk Inventor parts (.ipt) and assemblies (.iam)
     * `Assemblies` - contains assemblies
