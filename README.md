@@ -22,6 +22,8 @@ Replica with custom parts (not exactly as in the film but with more detail).
 * `build` - contains photographs to show assembled parts at a glance
 * `references` - contains reference photographs used to model all parts in this project
 
+![inventor](https://github.com/01binary/elysium-max-exoskeleton/raw/master/build/exoskeleton-assembly-inventor.png "Inventor Assembly")
+
 | Front | Side | Back |
 |-------|------|------|
 |![front](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/front.png "Front View") | ![side](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/side.png "Side View") | ![back](https://github.com/01binary/elysium-max-exoskeleton/raw/master/render/back.png "Back View")|
