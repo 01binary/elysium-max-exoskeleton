@@ -9,9 +9,10 @@ Replica with custom parts (not exactly as in the film but with more detail).
 
 --------
 
-* `print` - contains STL exports for individual parts
-* `view` - contains OBJ export for entire exoskeleton with ambient occlusion and UV coordinates
-* `assembled` - contains STL and OBJ exports for assembled exoskeleton
+* `print` - contains STL exports of individual parts
+* `instructions` - contains a PDF with build instructions
+    * `src` - source InDesign file w/links used to export the instructions PDF
+* `assembled` - contains high-poly STL and OBJ exports for the assembled exoskeleton
 * `src` - contains Autodesk Inventor parts (.ipt) and assemblies (.iam)
     * `Assemblies` - contains assemblies
         * `Pistons` - contains assemblies for each unique piston pair
@@ -19,6 +20,7 @@ Replica with custom parts (not exactly as in the film but with more detail).
     * `Pistons` - contains piston parts
     * `Design` - contains original drawings used at starting stage of the project
 * `render` - contains 3D renders to show assembled parts at a glance
+* `view` - contains low-poly OBJ export of the entire exoskeleton with ambient occlusion and UV coordinates (for real-time 3D rendering)
 * `build` - contains photographs to show assembled parts at a glance
 * `references` - contains reference photographs used to model all parts in this project
 
