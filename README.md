@@ -4,7 +4,7 @@ Replica with custom parts (not exactly as in the film but with more detail).
 > All STL/OBJ exports use millimeter units.
 
 * [Parts are viewable on GitHub](https://github.com/01binary/elysium-max-exoskeleton/blob/master/print/HipRight.stl).
-* [Instructions for building](https://github.com/01binary/elysium-max-exoskeleton/blob/master/instructions/assembly%20instructions.pdf) are included.
+* [Instructions for building](https://github.com/01binary/elysium-max-exoskeleton/raw/master/instructions/assembly%20instructions.pdf) are included.
 * See build log at http://www.therpf.com/showthread.php?t=212832.
 * Interested in contributing? Fork or see the project tasks [here](https://github.com/01binary/elysium-max-exoskeleton/projects/1).
 
