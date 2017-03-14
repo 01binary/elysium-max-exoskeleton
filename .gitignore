@@ -4,9 +4,11 @@
 # Inventor lock files
 *.lck
 
+# AutoCAD backup files
+*.bak
+
 # Inventor restore files
 OldVersions/
-
 
 # User-specific files
 *.suo
